@@ -66,3 +66,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### For Login fixed username and password is there username=> parusha password=>singla
+
+
+1) Context API is used for user login
+2) Store is used for maintaining cart information and getting mobile Data
+3)Searching works on complete name search
+
+
+The Cart information is stored in localStorage 
+On click of order cart get cleared
